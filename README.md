@@ -1,8 +1,9 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=Gradient&section=header&reversal=false&text=C+A+L+L+E+S+E+R&textBg=false&fontColor=BE6FB0&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0.01&desc=CyberSecurity+Student&descSize=20&descAlign=36&descAlignY=60" />
 
-
+<img width="1076" height="608" alt="asciiedwebsite" src="https://github.com/user-attachments/assets/7a489d88-05be-4e56-b001-81a1ffe20081" />
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+SYSTEM+INITIALIZING...;%3E+WELCOME%2C+I'M+GUSTAVO;%3E+SOFTWARE+ENGINEERING+STUDENT;%3E+JAVA+%7C+SPRING+BOOT+%7C+PYTHON;%3E+BACKEND+%7C+APIs+%7C+MICROSERVICES;%3E+BUILDING+THE+FUTURE+ONE+SYSTEM+AT+A+TIME." alt="Typing Animation" />
