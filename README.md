@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1400&pause=100000&color=FF2A6D&vCenter=true&repeat=false&width=320&height=40&lines=%3E%20whoami" alt="> whoami" />
+<img src="assets/title-whoami.svg" alt="> whoami" />
 
 <img src="https://github.com/user-attachments/assets/eb9d084d-e30d-482d-892f-d009ea487b13" align="right" width="420" alt="geass ascii" />
 
@@ -26,7 +26,7 @@ a lot of it is about planning ahead and noticing weak spots early.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1400&pause=100000&color=FF2A6D&vCenter=true&repeat=false&width=320&height=40&lines=%3E%20experience" alt="> experience" />
+<img src="assets/title-experience.svg" alt="> experience" />
 
 <img src="https://github.com/user-attachments/assets/291aabf6-d77a-4dc9-ade2-2cc968d54e0d" align="left" width="330" alt="tilted queen" />
 
@@ -36,7 +36,7 @@ a lot of it is about planning ahead and noticing weak spots early.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1400&pause=100000&color=FF2A6D&vCenter=true&repeat=false&width=320&height=40&lines=%3E%20stack" alt="> stack" />
+<img src="assets/title-stack.svg" alt="> stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,vscode&theme=dark" />
@@ -49,7 +49,7 @@ a lot of it is about planning ahead and noticing weak spots early.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1400&pause=100000&color=FF2A6D&vCenter=true&repeat=false&width=380&height=40&lines=%3E%20current_objective" alt="> current_objective" />
+<img src="assets/title-current_objective.svg" alt="> current_objective" />
 
 <img src="assets/objective.svg" width="376" alt="goal" />
 
@@ -58,7 +58,7 @@ but also from the side of analyzing and protecting them.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1400&pause=100000&color=FF2A6D&vCenter=true&repeat=false&width=320&height=40&lines=%3E%20next_move" alt="> next_move" />
+<img src="assets/title-next_move.svg" alt="> next_move" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2400&pause=800&color=C4002F&vCenter=true&multiline=true&width=520&height=90&lines=%24+.%2Fnext_move.sh;%5B%2B%5D+finishing+CS50x...;%5B%2B%5D+setting+up+Pop!_OS...;%5B%2B%5D+first+CTF+loading..." alt="next move terminal" />
 
