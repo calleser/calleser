@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,100:8B0000&section=header&text=C+A+L+L+E+S+E+R&fontColor=FF2A6D&fontSize=70&fontAlign=50&fontAlignY=38&desc=CyberSecurity+Student&descSize=20&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=FF2A6D&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING...;%3E+HELLO%2C+I'M+CALLESER;%3E+CYBERSECURITY+STUDENT;%3E+LEARNING+HOW+SYSTEMS+WORK+UNDERNEATH;%3E+BUILDING+THE+FUTURE+ONE+SYSTEM+AT+A+TIME." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=FF2A6D&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING...;%3E+HELLO%2C+I'M+CALLESER;%3E+I'M+A+SELF+TAUGHT+CYBERSECURITY+STUDENT;%3E+LEARNING+HOW+SYSTEMS+WORK+UNDERNEATH;%3E+HOPEFULLY+NOT+REPLACED+BY+AI." alt="Typing Animation" />
 
 <p align="center"><img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF2A6D?style=for-the-badge&logo=statuspage&logoColor=white" /> <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-LEARNING-C4002F?style=for-the-badge&logo=target&logoColor=white" /></p>
 
@@ -15,10 +15,13 @@
 <img src="https://github.com/user-attachments/assets/eb9d084d-e30d-482d-892f-d009ea487b13" align="right" width="420" alt="geass ascii" />
 
 I'm a high school student who got into technology by building things,
-and got curious about what happens underneath, including how systems fail.
+and got curious about what happens underneath, including how systems fail and get terribly hacked.
 
-I like to think about security a bit like chess:
-a lot of it is about planning ahead and noticing weak spots early.
+I enjoy studying not only about system's vulnerabilities, but also
+social engineering, OPSEC, data breaches, and how hackers around the world
+act and get caught, that is my true passion and, while i really do still
+enjoy creating and developing, i hope i can someday focus every study
+on data/cybersecurity!
 
 <img src="assets/whoami.svg" width="325" alt="profile tree" />
 
@@ -53,8 +56,9 @@ a lot of it is about planning ahead and noticing weak spots early.
 
 <img src="assets/objective.svg" width="376" alt="goal" />
 
-I want to understand technology not only from the side of building systems,
-but also from the side of analyzing and protecting them.
+I want to specialize myself, truly understand how bugs/security flaws pop up on big tech companies.
+I also have a dream that is to make every single person aware of how their data is being used, i strongly
+believe every single internet user should be able to understand how their technology works, so i work hard for that!
 
 ---
 
